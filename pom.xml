@@ -11,6 +11,13 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <version.jboss-vfs>3.2.11.Final</version.jboss-vfs>
     </properties>
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
     <repositories>
         <repository>
             <id>neo4j-snapshots</id>
